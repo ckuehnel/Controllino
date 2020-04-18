@@ -15,9 +15,9 @@
 #include <CayenneMQTTEthernet.h>
 
 // Cayenne authentication info. This should be obtained from the Cayenne Dashboard (BYOD).
-char username[] = "bd6f7450-a9bd-11e6-a85d-c165103f15c2";
-char password[] = "18dc9339c1698e9e9733a5ad8d2d2e5ccfacd095";
-char clientID[] = "abf8afd0-ee13-11e6-8577-0128e408a1ba";
+char username[] = "bd6f7450-a9bd-xxxx-a85d-c165103f15c2";
+char password[] = "18dc9339c1698exxxx33a5ad8d2d2e5ccfacd095";
+char clientID[] = "abf8afd0-ee13-xxxx-8577-0128e408a1ba";
 
 int SWITCH_ON = 200;  // higher values mean more light
 int SWITCH_OFF = SWITCH_ON + 5;
